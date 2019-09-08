@@ -1,0 +1,9 @@
+{
+  "name": "waimai_meituan",
+  "version": "1.0.0",
+  "description": "react webapp",
+  "main": "index.js",
+  "repository": "git@github.com:Leeyaofu/waimai_meituan.git",
+  "author": "Leeyaofu <2327900990@qq.com>",
+  "license": "MIT"
+}
